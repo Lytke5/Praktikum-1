@@ -1,0 +1,4 @@
+﻿  3_cpp.cpp
+C:\Users\denis\source\repos\3_cpp\3_cpp\3_cpp.cpp(52,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\denis\source\repos\3_cpp\3_cpp\3_cpp.cpp(11,18): warning C4101: "passt": Unreferenzierte lokale Variable
+  3_cpp.vcxproj -> C:\Users\denis\source\repos\3_cpp\x64\Debug\3_cpp.exe
